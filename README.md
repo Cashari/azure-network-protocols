@@ -49,7 +49,7 @@ donwdoaded wireshark and filter for ICMP traffic only. Observe ping requests and
 <img src="https://imgur.com/467QLVS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From wireshark, filter for DNS traffic only. From your Windows 10 VM within a command line, use nslookup to see what google.com, IP addresses. Observe the DNS traffic being show in WireShark
+From wireshark, filter for DNS traffic only. From your Windows 10 VM within a command line, use nslookup to see what google.com IP addresses is. Observe the DNS traffic being show in WireShark
 
 
 .
