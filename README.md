@@ -32,7 +32,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://imgur.com/1VSvPl4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created 2 virtual machines on Azure, one running on windows and the other running on linux.
+I,ve created 2 virtual machines on Azure. One operating on windows and the other running on Linux.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ Created 2 virtual machines on Azure, one running on windows and the other runnin
 <img src="https://imgur.com/HHj6Ak4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-donwdoaded wireshark and filter for ICMP traffic only. Observe ping requests and replies within WireShark.
+I downloaded wireshark and filter for ICMP traffic only. I observed ping request and reply within WireShark.
 
 </p>
 <br />
@@ -49,7 +49,7 @@ donwdoaded wireshark and filter for ICMP traffic only. Observe ping requests and
 <img src="https://imgur.com/467QLVS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From wireshark, filter for DNS traffic only. From your Windows 10 VM within a command line, use nslookup to see what google.com IP addresses is. Observe the DNS traffic being show in WireShark
+From wireshark I filtered for DNS traffic only. From Windows 10 VM with PowerShell I use nslookup to see what google.com IP addresses is. I Observed the DNS traffic being shown in WireShark
 
 
 .
